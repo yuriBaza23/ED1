@@ -14,3 +14,5 @@
 - Listas em alocação estática e alocação dinâmica.
 
 ## Plano de Ensino
+- Organização e manipulação de dados em memória principal.
+    1. Manipular dados de tipos primitivos em memória principal utilizando ponteiros.
