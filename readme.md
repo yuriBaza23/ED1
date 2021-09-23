@@ -12,3 +12,5 @@
 - Arquivos.
 - Ponteiros e referência.
 - Listas em alocação estática e alocação dinâmica.
+
+## Plano de Ensino
