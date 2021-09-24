@@ -15,15 +15,18 @@
 
 ## Plano de Ensino
 - Organização e manipulação de dados em memória principal.
-    - [ ] Manipular dados de tipos primitivos em memória principal utilizando ponteiros.
-    - [ ] Manipular dados de tipos estruturados em memória principal utilizando ponteiros.
-    - [ ] Gerenciar e manipular dados alocados dinamicamente.
-    - [ ] Aplicar o conceito de ponteiros no desenvolvimento de funções.
-    - [ ] Simular a execução do código desenvolvido para analisar o comportamento do algoritmo ou para detectar erro.
+    - [ ] Manipular dados de tipos **primitivos** em memória principal utilizando ponteiros.
+    - [ ] Manipular dados de tipos **estruturados** em memória principal utilizando ponteiros.
+    - [ ] Gerenciar e manipular **dados alocados** dinamicamente.
+    - [ ] Aplicar o **conceito de ponteiros** no desenvolvimento de funções.
+    - [ ] Simular a execução do código desenvolvido para analisar o **comportamento** do algoritmo ou para detectar erro.
 - Organização e manipulação de dados em memória secundária.
-    - [ ] Gerenciar e manipular dados armazenados em memória secundária com representação textual e binária.
+    - [ ] Gerenciar e manipular dados armazenados em memória secundária com representação **textual e binária**.
 - Tipo abstrato de dados e estrutura de dados.
-    - [ ] Especificar e implementar um tipo abstrato de dados a partir da descrição de um cenário.
-    - [ ] Estruturar o relacionamento lógico entre elementos de uma coleção de dados linear utilizando a estratégia de organização encadeada. 
-- Estruturas lineares com restrições.
-- Estruturas lineares sem restrições.
+    - [ ] Especificar e implementar um tipo **abstrato** de dados a partir da descrição de um cenário.
+    - [ ] Estruturar o relacionamento lógico entre elementos de uma coleção de dados linear utilizando a estratégia de organização **encadeada**. 
+- Estruturas lineares com e sem restrições.
+    - [ ] Implementar o tipo abstrato de dados **Pilha** utilizando a estratégia de organização de dados contígua e encadeada.
+    - [ ] Implementar o tipo abstrato de dados **Fila** utilizando a estratégia de organização de dados contígua e encadeada.
+    - [ ] Implementar o tipo abstrato de dados **Lista** utilizando a estratégia de organização de dados contígua e encadeada.
+    - [ ] Selecionar a estrutura de dado linear **apropriada** na solução de problemas.
