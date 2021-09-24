@@ -22,3 +22,8 @@
     - [ ] Simular a execução do código desenvolvido para analisar o comportamento do algoritmo ou para detectar erro.
 - Organização e manipulação de dados em memória secundária.
     - [ ] Gerenciar e manipular dados armazenados em memória secundária com representação textual e binária.
+- Tipo abstrato de dados e estrutura de dados.
+    - [ ] Especificar e implementar um tipo abstrato de dados a partir da descrição de um cenário.
+    - [ ] Estruturar o relacionamento lógico entre elementos de uma coleção de dados linear utilizando a estratégia de organização encadeada. 
+- Estruturas lineares com restrições.
+- Estruturas lineares sem restrições.
