@@ -15,10 +15,10 @@
 
 ## Plano de Ensino
 - Organização e manipulação de dados em memória principal.
-    [] Manipular dados de tipos primitivos em memória principal utilizando ponteiros.
-    2. Manipular dados de tipos estruturados em memória principal utilizando ponteiros.
-    3. Gerenciar e manipular dados alocados dinamicamente.
-    4. Aplicar o conceito de ponteiros no desenvolvimento de funções.
-    5. Simular a execução do código desenvolvido para analisar o comportamento do algoritmo ou para detectar erro.
+    - [ ] Manipular dados de tipos primitivos em memória principal utilizando ponteiros.
+    - [ ] Manipular dados de tipos estruturados em memória principal utilizando ponteiros.
+    - [ ] Gerenciar e manipular dados alocados dinamicamente.
+    - [ ] Aplicar o conceito de ponteiros no desenvolvimento de funções.
+    - [ ] Simular a execução do código desenvolvido para analisar o comportamento do algoritmo ou para detectar erro.
 - Organização e manipulação de dados em memória secundária.
-    1. Gerenciar e manipular dados armazenados em memória secundária com representação textual e binária.
+    - [ ] Gerenciar e manipular dados armazenados em memória secundária com representação textual e binária.
