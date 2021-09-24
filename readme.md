@@ -15,7 +15,7 @@
 
 ## Plano de Ensino
 - Organização e manipulação de dados em memória principal.
-    1. Manipular dados de tipos primitivos em memória principal utilizando ponteiros.
+    [] Manipular dados de tipos primitivos em memória principal utilizando ponteiros.
     2. Manipular dados de tipos estruturados em memória principal utilizando ponteiros.
     3. Gerenciar e manipular dados alocados dinamicamente.
     4. Aplicar o conceito de ponteiros no desenvolvimento de funções.
