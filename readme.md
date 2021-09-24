@@ -1,6 +1,6 @@
 <br/>
 
-<p align="center"><a href="#"><img src="https://github.com/yuriBaza23/ED1/blob/main/images/negativo.png?raw=true" height="70"></a></p>
+<p align="center"><a href="#"><img src="https://github.com/yuriBaza23/ED1/blob/main/images/negativo.png?raw=true" height="90"></a></p>
 
 <br/>
 
