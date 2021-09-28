@@ -8,7 +8,7 @@
 int main() {
     int a, b, c;
     
-    FILE *arquivo_entrada = fopen("classes/01/arquives/arquive.in", "r");
+    FILE *arquivo_entrada = fopen("classes/01/entrada_processamento_saida/arquives/arquive.in", "r");
     fscanf(arquivo_entrada, "%d %d %d", &a, &b, &c);
     fclose(arquivo_entrada);
 
@@ -24,7 +24,7 @@ int main() {
     float xOne = (-b + sqrt(delta))/2*a;
     float xTwo = (-b - sqrt(delta))/2*a;
 
-    FILE *arquivo_saida = fopen("classes/01/arquives/arquive.out", "w");
+    FILE *arquivo_saida = fopen("classes/01/entrada_processamento_saida/arquives/arquive.out", "w");
     fprintf(arquivo_saida, "{%.2f, %.2f}\n", xOne, xTwo);
     fclose(arquivo_saida);
 
