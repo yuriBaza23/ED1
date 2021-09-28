@@ -15,7 +15,7 @@ Podemos obter dados das seguintes maneiras:
 - Literal: Utlizando *atribuição direta* na variável, onde nós mesmos determinamos os dados necessários.
 - Argumentos na execução: Utlizando _char *argv[]_ e passando os dados na própria execução da aplicação.
 - Arquivos com dados adicionados: Utlizamos _fopen_ com operação de leitura e o _fscanf_ para obter os dados do arquivo informado.
-- Arquivos sem dados adicionados: Utilizamos o _stdin_ para informar os dados e esses dados são escritos no arquivo de entrada. 
+- Arquivos com redirecionamento: Utilizamos o _freopen_ para redirecionar os dados de entrada.
 
 ### Formas de saída
 
