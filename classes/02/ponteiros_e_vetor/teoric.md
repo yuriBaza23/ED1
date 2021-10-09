@@ -42,3 +42,15 @@ Levando em consideração que o vetor v1 é representado pelo endereço **#00** 
 #00 + ( 2 * 2) = #00 + 4 = #04.
   
 ### Envolvendo ponteiros
+~~~ c
+short int v1[3] = { 7, 8, 9 };
+int v2[2] = { 5, 6 };
+
+short int *p1;
+int *p2;
+
+p1 = v1;
+p2 = v2;
+~~~
+  
+Levando em conta a atribuição `p1 = v1;` e `p2 = v2;`, os ponteiros são equivalentes aos vetores, semanticamente falando.
